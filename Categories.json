@@ -1,5 +1,4 @@
-{
-    "category":[
+[
         {
             "Category_id": 1,
             "Category_Name": "EyeGlasses"
@@ -17,4 +16,5 @@
             "Category_Name": "Kids Glasses"
         }
     ]
-}
+
+

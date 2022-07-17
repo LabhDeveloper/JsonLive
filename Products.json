@@ -1,5 +1,4 @@
-{
-    "Products":[
+[
         {
             "product_id": 1,
             "brand_name": "Vincent Chase Online",
@@ -100,5 +99,4 @@
             "rating": "4.2",
             "Price": "1500"
         }
-    ]
-}
+]
