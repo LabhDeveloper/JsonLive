@@ -1,20 +1,20 @@
 {
     "category":[
         {
-            "id": 1,
-            "name": "EyeGlasses"
+            "Category_id": 1,
+            "Category_Name": "EyeGlasses"
         },
         {
-            "id": 2,
-            "name": "Computer Glasses"
+            "Category_id": 2,
+            "Category_Name": "Computer Glasses"
         },
         {
-            "id": 3,
-            "name": "Sun Glasses"
+            "Category_id": 3,
+            "Category_Name": "Sun Glasses"
         },
         {
-            "id": 4,
-            "name": "Kids Glasses"
+            "Category_id": 4,
+            "Category_Name": "Kids Glasses"
         }
     ]
 }
